@@ -1,0 +1,23 @@
+
+1)Administrator can do this 
+ Login in account with Administrator Credentials
+Click on user icon then you will see the below window on right top
+
+
+Then Click on "Go to Admin"
+Then you will see below pic at left side 
+
+ From the above Under INTEGRATIONS Select the "CONNECT":
+then you will see below 
+Defaultly it will be in disable mode
+
+Then Click on enable
+then you will see below window
+
+Click on Add Configuration:
+There will be a list with in the list select Custom.Then you will be prompted to a window which will be look like the below page
+Copy the url, paste as shown in pic
+
+below select the events
+and click on ADD button which is at bottom of page
+
